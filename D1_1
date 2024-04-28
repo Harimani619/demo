@@ -1,0 +1,7 @@
+Multiplexing: HTTP/1.1 operates sequentially, while HTTP/2 supports simultaneous requests over a single connection, reducing latency.
+Binary Protocol: HTTP/1.1 uses text-based headers, while HTTP/2 employs a binary format, improving efficiency in transmission and parsing.
+Header Compression: HTTP/1.1 sends uncompressed headers, whereas HTTP/2 compresses headers, saving bandwidth and speeding up communication.
+Server Push: HTTP/2 allows servers to push resources proactively, optimizing page load times.
+Stream Prioritization: HTTP/2 enables clients to prioritize resource delivery, enhancing loading efficiency for complex applications.
+Security Enhancements: HTTP/2 promotes the use of secure connections through TLS, enhancing privacy and security.
+In essence, HTTP/2 offers significant performance, efficiency, and security improvements over HTTP/1.1, making it a preferred choice for modern web development.
